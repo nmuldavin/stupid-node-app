@@ -1,0 +1,15 @@
+{
+  "name": "stupid-node-app",
+  "version": "0.0.1",
+  "description": "A stupid node app that does stupid things, but get deployed smart",
+  "main": "src/index.mjs",
+  "repository": "https://github.com/nmuldavin/stupid-node-app.git",
+  "author": "Noah Muldavin <nmuldavin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --experimental-modules src/index.mjs"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
