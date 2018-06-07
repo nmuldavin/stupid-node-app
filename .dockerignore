@@ -1,0 +1,6 @@
+README.md
+.gitignore
+.git
+.DS_Store
+yarn-error.log
+node_modules
